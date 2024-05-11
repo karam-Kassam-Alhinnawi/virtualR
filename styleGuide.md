@@ -1,0 +1,1 @@
+-- Main Gradient Color: bg-gradient-to-r from-orange-500 to-red-800
